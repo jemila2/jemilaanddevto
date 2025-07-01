@@ -1,0 +1,3 @@
+[submodule "myblogapp"]
+    path = myblogapp
+    url = https://github.com/username/repo.git
